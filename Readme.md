@@ -43,7 +43,7 @@ GitHub: https://github.com/Atalan04
 
 📸 Preview
 
-![Main Page](Assets/1.png)
-![Main Page](Assets/2.png)
-![Main Page](Assets/3.png)
-![Main Page](Assets/4.png)
+![Main Page](assets/1.png)
+![Main Page](assets/2.png)
+![Main Page](assets/3.png)
+![Main Page](assets/4.png)
