@@ -1,0 +1,122 @@
+[
+  {
+    "id": 1,
+    "question": "What is the capital of France?",
+    "options": ["Paris", "London", "Berlin", "Madrid"],
+    "answer": "Paris",
+    "difficulty": "easy",
+    "score": 5
+  },
+  {
+    "id": 2,
+    "question": "Which color is made by mixing red and white?",
+    "options": ["Purple", "Pink", "Orange", "Brown"],
+    "answer": "Pink",
+    "difficulty": "easy",
+    "score": 5
+  },
+  {
+    "id": 3,
+    "question": "How many days are there in a week?",
+    "options": ["5", "6", "7", "8"],
+    "answer": "7",
+    "difficulty": "easy",
+    "score": 5
+  },
+  {
+    "id": 4,
+    "question": "Which animal says 'meow'?",
+    "options": ["Dog", "Cat", "Cow", "Bird"],
+    "answer": "Cat",
+    "difficulty": "easy",
+    "score": 5
+  },
+  {
+    "id": 5,
+    "question": "What is 5 + 3?",
+    "options": ["6", "7", "8", "9"],
+    "answer": "8",
+    "difficulty": "easy",
+    "score": 5
+  },
+  {
+    "id": 6,
+    "question": "Which planet is known as the Red Planet?",
+    "options": ["Venus", "Mars", "Jupiter", "Saturn"],
+    "answer": "Mars",
+    "difficulty": "medium",
+    "score": 10
+  },
+  {
+    "id": 7,
+    "question": "Who wrote 'Romeo and Juliet'?",
+    "options": ["Charles Dickens", "William Shakespeare", "Mark Twain", "Jane Austen"],
+    "answer": "William Shakespeare",
+    "difficulty": "medium",
+    "score": 10
+  },
+  {
+    "id": 8,
+    "question": "What is the largest ocean on Earth?",
+    "options": ["Atlantic Ocean", "Indian Ocean", "Arctic Ocean", "Pacific Ocean"],
+    "answer": "Pacific Ocean",
+    "difficulty": "medium",
+    "score": 10
+  },
+  {
+    "id": 9,
+    "question": "Which gas do plants absorb from the atmosphere?",
+    "options": ["Oxygen", "Nitrogen", "Carbon Dioxide", "Hydrogen"],
+    "answer": "Carbon Dioxide",
+    "difficulty": "medium",
+    "score": 10
+  },
+  {
+    "id": 10,
+    "question": "What is the square root of 81?",
+    "options": ["7", "8", "9", "10"],
+    "answer": "9",
+    "difficulty": "medium",
+    "score": 10
+  },
+  {
+    "id": 11,
+    "question": "What is the chemical symbol for gold?",
+    "options": ["Ag", "Au", "Pb", "Fe"],
+    "answer": "Au",
+    "difficulty": "hard",
+    "score": 15
+  },
+  {
+    "id": 12,
+    "question": "Who developed the theory of relativity?",
+    "options": ["Isaac Newton", "Albert Einstein", "Nikola Tesla", "Galileo Galilei"],
+    "answer": "Albert Einstein",
+    "difficulty": "hard",
+    "score": 15
+  },
+  {
+    "id": 13,
+    "question": "Which country has the largest population in the world?",
+    "options": ["India", "United States", "China", "Russia"],
+    "answer": "India",
+    "difficulty": "hard",
+    "score": 15
+  },
+  {
+    "id": 14,
+    "question": "What is the longest river in the world?",
+    "options": ["Amazon River", "Nile River", "Yangtze River", "Mississippi River"],
+    "answer": "Nile River",
+    "difficulty": "hard",
+    "score": 15
+  },
+  {
+    "id": 15,
+    "question": "In computing, what does 'CPU' stand for?",
+    "options": ["Central Process Unit", "Central Processing Unit", "Computer Personal Unit", "Central Processor Utility"],
+    "answer": "Central Processing Unit",
+    "difficulty": "hard",
+    "score": 15
+  }
+]
