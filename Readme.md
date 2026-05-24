@@ -40,6 +40,7 @@ More quiz categories
 GitHub: https://github.com/Atalan04
 
 
+
 📸 Preview
 
 ![Main Page](Assets/1.png)
